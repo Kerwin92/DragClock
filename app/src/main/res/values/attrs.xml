@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DragClockView">
+        <attr name = "fixArcColor" format = "color" />
+        <attr name = "dragArcColor" format = "color" />
+        <attr name = "pointCircleColor" format = "color" />
+        <attr name = "textColor" format = "color" />
+        <attr name = "initHour" format="integer" />
+        <attr name = "initMin" format="integer" />
+        <attr name = "radius" format="dimension" />
+        <attr name = "strokeWidth" format="dimension" />
+        <attr name = "textSize" format="dimension" />
+    </declare-styleable>
+</resources>
